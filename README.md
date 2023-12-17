@@ -21,7 +21,7 @@
 * `git clone https://github.com/htr-tech/haxorbd.git`
 * `cd haxorbd`
 
-#### > Run : `python2 haxor.py`
+#### > Run : `python2 deffex.py`
 
 #### USERNAME : `deffexadnan`
 #### PASSWORD : `@@976578##`
